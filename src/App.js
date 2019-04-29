@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import Github from "./Github";
+import Github from "./Components/Github";
 import Header from "./Components/Header";
 import * as auth0 from 'auth0-js';
 
